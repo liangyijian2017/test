@@ -1,5 +1,5 @@
 {
-    "name": "kevin/composer-package-demo",
+    "name": "kevin.liang/composer-package-demo",
     "autoload": {
         "psr-4": {
             "Yurun\\ComposerPackageDemo\\": "src/"
