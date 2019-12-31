@@ -5,7 +5,7 @@
             "Yurun\\ComposerPackageDemo\\": "src/"
         }
     },
-     "version": "1.0.0",
+     "type": "library",
     "require": {
     "php": ">=7.0"
      },
